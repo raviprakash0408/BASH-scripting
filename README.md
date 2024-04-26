@@ -1,2 +1,2 @@
-# BASH-scripting
-i want to upload bash code script which help us to work as calculator in terminal 
+# BASH-scripting 
+this script can be used to create a calculator and use it as calculator in terminal 
